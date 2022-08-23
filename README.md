@@ -1,2 +1,2 @@
 # sprintBoot
-Proyecto Java, sisytema de venta de productos en supermercado.
+Proyecto Java, sistema de venta de productos en supermercado.
